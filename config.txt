@@ -119,8 +119,8 @@
  *
  * We feature pools up to 1MH/s. For a more complete list see M5M400's pool list at www.moneropools.com
  */
-"pool_address" : "pool.minexmr.com:443",
-"wallet_address" : "4AuJ5K4tEgqZp9YLqkSi6QUjzuLnbAL5zepfvuDcaZUAgaLbQyYX1mnLu6xYkCjZsUhtp8FPJKsGHTFiJGCGpR31JNukGVF",
+"pool_address" : "pool.etn.spacepools.org:3333",
+"wallet_address" : "etnk2dDe32egFj7kEmwB7U1JpBgey9n1bHTB6b2pnKJnc8UJ9ue1A44VEahJoiJJb2Vxo7x3RvihtH61xtwLP8cQ4qVFov6P66",
 "pool_password" : "",
 
 /*
